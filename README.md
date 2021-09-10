@@ -14,6 +14,13 @@ Citation:
 
 ###
 
+Information on this fork:
+This is a Python wrapper for [FastTrack](https://github.com/santiagobarreda/FastTrack) to accommodate parallelization. This also has the benefit of the writeInfoLine statements avoiding the frozen mess of nonresponsive Praat windows.
+
+Right now the wrapper is for the Track folder functionality. I plan to expand the wrapper for individual files.
+
+Information on [FastTrack](https://github.com/santiagobarreda/FastTrack):
+
 Fast Track is a Praat plugin that makes accurate formant tracking fast and easy. Fast Track automatically runs multiple formant analyses on a given sound file, and tries to pick the best one for you (surrounded by extra boxes in the example below). 
 
 Fast Track has built-in functions to help along every step of a vowel analysis project from start to finish (with more coming):
